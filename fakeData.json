@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product_name": "Ultrabook X15",
+            "category": "Laptop",
+            "brand": "TechPro",
+            "price": 999,
+            "image": "https://www.pcworld.com/wp-content/uploads/2024/12/bf-laptop-deals-pcw-15.jpg?quality=50&strip=all"
+        },
+        {
+            "id": 2,
+            "product_name": "Gaming Beast G17",
+            "category": "Laptop",
+            "brand": "PowerCore",
+            "price": 3999,
+            "image": "https://www.pcworld.com/wp-content/uploads/2024/12/bf-laptop-deals-pcw-15.jpg?quality=50&strip=all"
+        },
+        {
+            "id": 3,
+            "product_name": "EcoBook 14i",
+            "category": "Laptop",
+            "brand": "GreenTech",
+            "price": 1299,
+            "image": "https://www.pcworld.com/wp-content/uploads/2024/12/bf-laptop-deals-pcw-15.jpg?quality=50&strip=all"
+        },
+        {
+            "id": 4,
+            "product_name": "ProBook 16-P",
+            "category": "Laptop",
+            "brand": "Apex",
+            "price": 2499,
+            "image": "https://www.pcworld.com/wp-content/uploads/2024/12/bf-laptop-deals-pcw-15.jpg?quality=50&strip=all"
+        }
+    ]
+}
